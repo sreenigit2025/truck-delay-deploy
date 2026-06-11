@@ -36,7 +36,7 @@ BINARY_ORDINAL_COLS = metadata['binary_ordinal_cols']
 # ==========================================
 # 2. Application Header
 # ==========================================
-st.title("🚚 FreshBasket Delivery Delay Predictor")
+st.title("🚚 FreshBasket Truck Delay Prediction Dashboard — v2")
 st.markdown("""
 Enter the trip, driver, and weather details below to predict if the shipment is at risk of being delayed.
 """)
